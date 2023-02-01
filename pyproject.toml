@@ -24,6 +24,10 @@ optuna = "^3.0.5"
 requests = "2.28.1"
 hopsworks = "^3.0.5"
 streamlit = "^1.17.0"
+watchdog = "^2.2.1"
+geopandas = "^0.12.2"
+pydeck = "^0.8.0"
+pyogrio = "^0.5.1"
 
 
 [build-system]
